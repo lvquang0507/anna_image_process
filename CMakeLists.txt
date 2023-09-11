@@ -11,7 +11,8 @@ set(THIS_PACKAGE_INCLUDE_DEPENDS
     image_transport
     cv_bridge
     sensor_msgs
-    std_msgs  
+    std_msgs
+    geometry_msgs  
     OpenCV
 )
 
